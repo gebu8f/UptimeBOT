@@ -7,6 +7,18 @@ sites:
     url: https://passwd.gebu8f.pp.ua
   - name: Alist
     url: https://alist.gebu8f.pp.ua
+  - name: Password1
+    url: https://pass-4a4m.onrender.com
+  - name: Alust1
+    url: https://gebu8f-0hnr.onrender.com
+  - name: memos
+    url: https://note.gebu8f.pp.ua
+  - name: memos1
+    url: https://memos-941c.onrender.com
+  - name: Uptime
+    url: https://uptime.gebu8f.pp.ua
+  - name: Uptime1
+    url: https://uptime-rhh3.onrender.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
