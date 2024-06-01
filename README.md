@@ -1,4 +1,4 @@
-# [📈 Live Status](https://UptimeBOT.gebu8f.eu.org): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://uptime.gebu8f.eu.org): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -25,7 +25,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://UptimeBOT.gebu8f.eu.org)
+[**Visit our status website →**](https://uptime.gebu8f.eu.org)
 
 ## 📄 License
 
