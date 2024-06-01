@@ -15,6 +15,8 @@ sites:
     url: https://note.gebu8f.pp.ua
   - name: memos1
     url: https://memos-941c.onrender.com
+  - name: Alist123
+    ur: http://alist.gebu8f.eu.org
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
