@@ -24,10 +24,10 @@
     "url": "https://alist.gebu8f.pp.ua",
     "icon": "https://icons.duckduckgo.com/ip3/alist.gebu8f.pp.ua.ico",
     "slug": "alist",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 914,
@@ -35,7 +35,9 @@
     "timeWeek": 622,
     "timeMonth": 883,
     "timeYear": 914,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-02": 2
+    }
   },
   {
     "name": "Password1",
@@ -60,9 +62,9 @@
     "url": "https://gebu8f-0hnr.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/gebu8f-0hnr.onrender.com.ico",
     "slug": "alust1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +73,9 @@
     "timeWeek": 434,
     "timeMonth": 517,
     "timeYear": 530,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-02": 0
+    }
   },
   {
     "name": "memos",
