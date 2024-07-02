@@ -24,19 +24,19 @@
     "url": "https://alist.gebu8f.pp.ua",
     "icon": "https://icons.duckduckgo.com/ip3/alist.gebu8f.pp.ua.ico",
     "slug": "alist",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 914,
-    "timeDay": 460,
-    "timeWeek": 622,
-    "timeMonth": 883,
-    "timeYear": 914,
+    "status": "up",
+    "uptime": "99.69%",
+    "uptimeDay": "90.12%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.69%",
+    "time": 1441,
+    "timeDay": 11496,
+    "timeWeek": 3361,
+    "timeMonth": 1539,
+    "timeYear": 1441,
     "dailyMinutesDown": {
-      "2024-07-02": 2
+      "2024-07-02": 142
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://gebu8f-0hnr.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/gebu8f-0hnr.onrender.com.ico",
     "slug": "alust1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 530,
-    "timeDay": 280,
-    "timeWeek": 434,
-    "timeMonth": 517,
-    "timeYear": 530,
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "90.22%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.70%",
+    "time": 538,
+    "timeDay": 575,
+    "timeWeek": 489,
+    "timeMonth": 528,
+    "timeYear": 538,
     "dailyMinutesDown": {
-      "2024-07-02": 0
+      "2024-07-02": 141
     }
   },
   {
