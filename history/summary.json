@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 746,
-    "timeDay": 584,
-    "timeWeek": 655,
-    "timeMonth": 663,
-    "timeYear": 746,
+    "time": 742,
+    "timeDay": 523,
+    "timeWeek": 646,
+    "timeMonth": 653,
+    "timeYear": 742,
     "dailyMinutesDown": {
       "2024-05-31": 26
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.77%",
-    "time": 1280,
-    "timeDay": 451,
-    "timeWeek": 695,
-    "timeMonth": 1416,
-    "timeYear": 1280,
+    "time": 1267,
+    "timeDay": 588,
+    "timeWeek": 688,
+    "timeMonth": 1415,
+    "timeYear": 1267,
     "dailyMinutesDown": {
       "2024-07-02": 142
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 481,
-    "timeDay": 355,
-    "timeWeek": 441,
-    "timeMonth": 378,
-    "timeYear": 481,
+    "time": 488,
+    "timeDay": 878,
+    "timeWeek": 519,
+    "timeMonth": 395,
+    "timeYear": 488,
     "dailyMinutesDown": {}
   },
   {
@@ -63,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gebu8f-0hnr.onrender.com.ico",
     "slug": "alust1",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "99.77%",
-    "time": 515,
-    "timeDay": 321,
-    "timeWeek": 500,
-    "timeMonth": 477,
-    "timeYear": 515,
+    "uptimeYear": "99.78%",
+    "time": 511,
+    "timeDay": 338,
+    "timeWeek": 428,
+    "timeMonth": 460,
+    "timeYear": 511,
     "dailyMinutesDown": {
       "2024-07-02": 141
     }
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 749,
-    "timeDay": 601,
-    "timeWeek": 667,
-    "timeMonth": 704,
-    "timeYear": 749,
+    "time": 745,
+    "timeDay": 517,
+    "timeWeek": 654,
+    "timeMonth": 701,
+    "timeYear": 745,
     "dailyMinutesDown": {}
   },
   {
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 484,
-    "timeDay": 316,
-    "timeWeek": 425,
-    "timeMonth": 433,
-    "timeYear": 484,
+    "time": 483,
+    "timeDay": 418,
+    "timeWeek": 438,
+    "timeMonth": 435,
+    "timeYear": 483,
     "dailyMinutesDown": {}
   }
 ]
