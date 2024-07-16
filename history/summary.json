@@ -4,10 +4,10 @@
     "url": "https://passwd.gebu8f.pp.ua",
     "icon": "https://icons.duckduckgo.com/ip3/passwd.gebu8f.pp.ua.ico",
     "slug": "passwd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 740,
@@ -16,6 +16,7 @@
     "timeMonth": 649,
     "timeYear": 740,
     "dailyMinutesDown": {
+      "2024-07-16": 1,
       "2024-05-31": 26
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://alist.gebu8f.pp.ua",
     "icon": "https://icons.duckduckgo.com/ip3/alist.gebu8f.pp.ua.ico",
     "slug": "alist",
-    "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.78%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.79%",
     "time": 1242,
     "timeDay": 600,
     "timeWeek": 676,
     "timeMonth": 1409,
     "timeYear": 1242,
     "dailyMinutesDown": {
+      "2024-07-16": 1,
       "2024-07-02": 142
     }
   },
@@ -82,9 +84,9 @@
     "url": "https://note.gebu8f.pp.ua",
     "icon": "https://icons.duckduckgo.com/ip3/note.gebu8f.pp.ua.ico",
     "slug": "memos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,7 +95,9 @@
     "timeWeek": 771,
     "timeMonth": 724,
     "timeYear": 749,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-16": 0
+    }
   },
   {
     "name": "memos1",
