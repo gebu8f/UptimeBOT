@@ -24,11 +24,11 @@
     "url": "https://alist.gebu8f.pp.ua",
     "icon": "https://icons.duckduckgo.com/ip3/alist.gebu8f.pp.ua.ico",
     "slug": "alist",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.79%",
     "time": 1208,
     "timeDay": 694,
@@ -36,6 +36,7 @@
     "timeMonth": 1368,
     "timeYear": 1208,
     "dailyMinutesDown": {
+      "2024-07-18": 2,
       "2024-07-02": 142
     }
   },
@@ -62,18 +63,19 @@
     "url": "https://gebu8f-0hnr.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/gebu8f-0hnr.onrender.com.ico",
     "slug": "alust1",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "99.79%",
+    "uptimeYear": "99.80%",
     "time": 499,
     "timeDay": 317,
     "timeWeek": 338,
     "timeMonth": 460,
     "timeYear": 499,
     "dailyMinutesDown": {
+      "2024-07-18": 0,
       "2024-07-02": 141
     }
   },
