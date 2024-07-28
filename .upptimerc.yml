@@ -11,10 +11,10 @@ sites:
     url: https://pass-4a4m.onrender.com
   - name: Alust1
     url: https://gebu8f-0hnr.onrender.com
-  - name: memos
-    url: https://note.gebu8f.pp.ua
-  - name: memos1
-    url: https://memos-941c.onrender.com
+  #- name: memos
+    #url: https://note.gebu8f.pp.ua
+  #- name: memos1
+    #url: https://memos-941c.onrender.com
   #- name: Alist123
     #url: http://alist.gebu8f.eu.org
   #- name: Uptime
