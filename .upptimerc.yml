@@ -5,8 +5,6 @@ repo: UptimeBOT # The name of this repository
 sites:
   - name: Passwd
     url: https://passwd.gebu8f.pp.ua
-  - name: Alist
-    url: https://gebu8f-0hnr.onrender.com
   - name: Password1
     url: https://pass-4a4m.onrender.com
   - name: quark1
