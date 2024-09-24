@@ -63,17 +63,19 @@
     "url": "https://halo-94hu.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/halo-94hu.onrender.com.ico",
     "slug": "halo",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 575,
-    "timeDay": 575,
-    "timeWeek": 575,
-    "timeMonth": 575,
-    "timeYear": 575,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 374,
+    "timeDay": 374,
+    "timeWeek": 374,
+    "timeMonth": 374,
+    "timeYear": 374,
+    "dailyMinutesDown": {
+      "2024-09-24": 0
+    }
   }
 ]
