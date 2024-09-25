@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 740,
-    "timeDay": 687,
-    "timeWeek": 606,
-    "timeMonth": 732,
+    "timeDay": 694,
+    "timeWeek": 612,
+    "timeMonth": 730,
     "timeYear": 740,
     "dailyMinutesDown": {
       "2024-09-11": 21,
@@ -32,9 +32,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 472,
-    "timeDay": 397,
+    "timeDay": 396,
     "timeWeek": 418,
-    "timeMonth": 515,
+    "timeMonth": 512,
     "timeYear": 472,
     "dailyMinutesDown": {
       "2024-09-11": 21
@@ -51,32 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 984,
-    "timeDay": 851,
-    "timeWeek": 884,
-    "timeMonth": 925,
-    "timeYear": 984,
+    "time": 1011,
+    "timeDay": 1778,
+    "timeWeek": 1100,
+    "timeMonth": 978,
+    "timeYear": 1011,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Halo",
-    "url": "https://halo-94hu.onrender.com",
-    "icon": "https://icons.duckduckgo.com/ip3/halo-94hu.onrender.com.ico",
-    "slug": "halo",
-    "status": "down",
-    "uptime": "3.33%",
-    "uptimeDay": "3.33%",
-    "uptimeWeek": "3.33%",
-    "uptimeMonth": "3.33%",
-    "uptimeYear": "3.33%",
-    "time": 300,
-    "timeDay": 300,
-    "timeWeek": 300,
-    "timeMonth": 300,
-    "timeYear": 300,
-    "dailyMinutesDown": {
-      "2024-09-25": 80,
-      "2024-09-24": 1186
-    }
   }
 ]
