@@ -46,17 +46,19 @@
     "url": "http://quark-auto-save-latest.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/quark-auto-save-latest.onrender.com.ico",
     "slug": "quark1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1003,
-    "timeDay": 919,
-    "timeWeek": 950,
-    "timeMonth": 993,
-    "timeYear": 1003,
-    "dailyMinutesDown": {}
+    "time": 996,
+    "timeDay": 605,
+    "timeWeek": 868,
+    "timeMonth": 971,
+    "timeYear": 996,
+    "dailyMinutesDown": {
+      "2024-10-31": 0
+    }
   }
 ]
