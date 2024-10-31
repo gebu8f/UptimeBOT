@@ -7,8 +7,6 @@ sites:
     url: https://passwd.gebu8f.pp.ua
   - name: Password1
     url: https://pass-4a4m.onrender.com
-  - name: quark1
-    url: http://quark-auto-save-latest.onrender.com
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
